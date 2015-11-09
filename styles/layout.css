@@ -1,0 +1,53 @@
+html {
+  width: 100%;
+  background: #1992a4;
+  margin: 0;
+  padding: 0;
+}
+
+#comp1,#comp2,#comp3{
+  margin: 10px;
+  width: 10%;
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+#head {
+  margin: 3px;
+  width: 100%;
+  text-align: center;
+}
+main {
+  width: 96%;
+  margin: auto;
+  text-align: center;
+}
+
+.fotos {
+  height: 250px;
+  margin: auto;
+  border-radius: 50%;
+  box-shadow: 3px 5px 10px #505458;
+
+}
+
+
+section {
+  vertical-align: top;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3%;
+  background: #a3d5d1;
+  width: 30%;
+
+}
+section > header {
+  height: 75px;
+}
+footer {
+  background: #a2e4f0;
+}
